@@ -1,16 +1,71 @@
-# React + Vite
+🌍 Dreamy Journey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive travel website built with **React**, **Bootstrap**, and **Vite**. The project is designed to provide users with an engaging experience while exploring popular travel destinations through a clean and visually appealing interface.
 
-Currently, two official plugins are available:
+ ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🏝️ Attractive Hero Section
+- 📍 Popular Travel Destinations
+- 📱 Fully Responsive Design
+- 🧭 Smooth Navigation
+- 🎨 Modern UI with Bootstrap
+- 📞 Contact Section
 
-## React Compiler
+ 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Bootstrap 5
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Vite
 
-## Expanding the ESLint configuration
+📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+dreamy-journey/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── image/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+## 🚀 Getting Started
+
+1. Clone the repository
+
+bash
+git clone https://github.com/richakumari07/dreamy-journey.git
+
+
+2. Navigate to the project folder
+
+bash
+cd dreamy-journey
+
+3. Install dependencies
+
+bash
+npm install
+
+4. Start the development server
+
+bash
+npm run dev
+
+📹 Project Demo
+
+The project demonstration video is available on my LinkedIn post.
+
+👩‍💻 Developed By
+
+Richa Kumari
+
+Frontend Development Project
