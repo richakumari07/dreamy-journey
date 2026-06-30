@@ -1,8 +1,8 @@
-🌍 Dreamy Journey
+# 🌍 Dreamy Journey
 
 A modern and responsive travel website built with **React**, **Bootstrap**, and **Vite**. The project is designed to provide users with an engaging experience while exploring popular travel destinations through a clean and visually appealing interface.
 
- ✨ Features
+## ✨ Features
 
 - 🏝️ Attractive Hero Section
 - 📍 Popular Travel Destinations
@@ -11,7 +11,7 @@ A modern and responsive travel website built with **React**, **Bootstrap**, and 
 - 🎨 Modern UI with Bootstrap
 - 📞 Contact Section
 
- 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - React.js
 - Bootstrap 5
@@ -20,8 +20,9 @@ A modern and responsive travel website built with **React**, **Bootstrap**, and 
 - JavaScript (ES6+)
 - Vite
 
-📂 Project Structure
+## 📂 Project Structure
 
+```text
 dreamy-journey/
 ├── public/
 ├── src/
@@ -35,37 +36,40 @@ dreamy-journey/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+```
 
 ## 🚀 Getting Started
 
-1. Clone the repository
+### 1. Clone the repository
 
-bash
+```bash
 git clone https://github.com/richakumari07/dreamy-journey.git
+```
 
+### 2. Navigate to the project folder
 
-2. Navigate to the project folder
-
-bash
+```bash
 cd dreamy-journey
+```
 
-3. Install dependencies
+### 3. Install dependencies
 
-bash
+```bash
 npm install
+```
 
-4. Start the development server
+### 4. Start the development server
 
-bash
+```bash
 npm run dev
+```
 
-📹 Project Demo
+## 📹 Project Demo
 
 The project demonstration video is available on my LinkedIn post.
 
-👩‍💻 Developed By
+## 👩‍💻 Developed By
 
-Richa Kumari
+**Richa Kumari**
 
 Frontend Development Project
